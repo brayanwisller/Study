@@ -34,6 +34,6 @@ Este repositório é dedicado ao meu aprendizado contínuo em diferentes linguag
 
 Cada pasta contém um sub-diretório com o tema estudado. Por exemplo:
 - `/C/cybersecurity`: Scripts de ciber segurança escritos em c.
-- `/HTML/site 1`: Site de teste utilizando html, css, javascript.
+- `/HTML-CSS-Javascript/Site 1`: Site de teste utilizando html, css, javascript.
 
 ---
